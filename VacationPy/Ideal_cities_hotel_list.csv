@@ -1,50 +1,50 @@
-,City,Country,Lat,Lng,Closest Hotel
-0,atambua,ID,-9.1061,124.8925,Pastori 1 Jemaat Polycarpus
-1,aksha,RU,50.2814,113.2867,Vizit
-2,gympie,AU,-26.1898,152.665,Mary River Motor Inn
-3,hami,CN,42.8,93.45,Laoyutang Resort
-4,jiuquan,CN,39.7432,98.5174,Jiuquan Hotel
-5,tuntum,BR,-5.2581,-44.6489,Casa da Dona Maria Lúcia
-6,aripuana,BR,-9.1667,-60.6333,
-7,college,US,64.8569,-147.8028,Pike's Waterfront Lodge
-8,nyurba,RU,63.2842,118.3319,Gostinitsa Alrosa
-9,labrea,BR,-7.2586,-64.7981,Hotel Novo Horizonte
-10,thompson,CA,55.7435,-97.8558,Burntwood Hotel
-11,burns lake,CA,54.2331,-125.7533,Burns Lake Bed and Breakfast
-12,xian,CN,34.2583,108.9286,Grand New World Hotel
-13,kenora,CA,49.8167,-94.4337,Maynard Lake Lodge
-14,airai,TL,-8.9266,125.4092,Juvinal Martin
-15,asyut,EG,27.181,31.1837,Florence Hotel Assiut
-16,komsomolskiy,UZ,40.4272,71.7189,Ikathouse
-17,north ogden,US,41.3072,-111.9602,Washington Estates Manufactured Home Community
-18,lisakovsk,KZ,52.5369,62.4936,Gostinitsa Lisakovsk
-19,jalu,LY,29.0331,21.5482,صاحبة الفخامة
-20,sao felix do xingu,BR,-6.6447,-51.995,Rio Xingu Camping
-21,voh,NC,-20.9667,164.7,Le Vook
-22,talnakh,RU,69.4865,88.3972,Talnakh Hotel
-23,kozluk,TR,38.1938,41.4885,roni rezisdans kozluk apart otel
-24,blackwater,AU,-23.5833,148.8833,Blackwater Motor Inn
-25,ulaangom,MN,49.9811,92.0667,Achit Nuur Hotel & Restaurant
-26,sile,TR,41.1754,29.6133,Phellos Suites
-27,alofi,NU,-19.0595,-169.9187,Taloa Heights
-28,jinchang,CN,38.4953,102.1739,Mingshihui Jinchang International Hotel
-29,korla,CN,41.7597,86.1469,Gulisitan Hotel
-30,verkhoyansk,RU,67.5447,133.385,
-31,yerbogachen,RU,61.2767,108.0108,
-32,ayagoz,KZ,47.9714,80.4392,Gostinitsa Nur
-33,pafos,CY,34.7667,32.4167,Elysium Hotel
-34,klyuchi,RU,52.2667,79.1667,Vesolaya Mayovka
-35,awjilah,LY,29.1081,21.2869,
-36,batagay-alyta,RU,67.8006,130.4114,
-37,meadow lake,US,34.8014,-106.5436,JKL Inc. R.V Park and Storage
-38,lander,US,42.833,-108.7307,"Holiday Inn Express & Suites Lander, an IHG Hotel"
-39,konibodom,TJ,40.2843,70.4426,"Hotel ""Orom"""
-40,sao miguel do araguaia,BR,-13.275,-50.1628,Hotel Executivo Palace
-41,mizdah,LY,31.4451,12.9801,محمدالمبروك الاريقط
-42,avera,US,33.194,-82.5271,
-43,varzea grande,BR,-15.6467,-56.1325,Hotel Express
-44,abu samrah,SY,35.3029,37.1841,
-45,ust-kuyga,RU,70.0167,135.6,
-46,jacareacanga,BR,-6.2222,-57.7528,Casa do Ian😎
-47,biograd na moru,HR,43.9433,15.4519,Hotel Palma
-48,hazorasp,UZ,41.3194,61.0742,Kemping wifi hotel
+,City,Country,Lat,Lng,Humidity,Closest Hotel
+0,atambua,ID,-9.1061,124.8925,43,Pastori 1 Jemaat Polycarpus
+1,aksha,RU,50.2814,113.2867,48,Vizit
+2,gympie,AU,-26.1898,152.665,33,Mary River Motor Inn
+3,hami,CN,42.8,93.45,18,Laoyutang Resort
+4,jiuquan,CN,39.7432,98.5174,18,Jiuquan Hotel
+5,tuntum,BR,-5.2581,-44.6489,43,Casa da Dona Maria Lúcia
+6,aripuana,BR,-9.1667,-60.6333,44,
+7,college,US,64.8569,-147.8028,42,Pike's Waterfront Lodge
+8,nyurba,RU,63.2842,118.3319,39,Gostinitsa Alrosa
+9,labrea,BR,-7.2586,-64.7981,46,Hotel Novo Horizonte
+10,thompson,CA,55.7435,-97.8558,43,Burntwood Hotel
+11,burns lake,CA,54.2331,-125.7533,30,Burns Lake Bed and Breakfast
+12,xian,CN,34.2583,108.9286,54,Grand New World Hotel
+13,kenora,CA,49.8167,-94.4337,53,Maynard Lake Lodge
+14,airai,TL,-8.9266,125.4092,31,Juvinal Martin
+15,asyut,EG,27.181,31.1837,19,Florence Hotel Assiut
+16,komsomolskiy,UZ,40.4272,71.7189,53,Ikathouse
+17,north ogden,US,41.3072,-111.9602,51,Washington Estates Manufactured Home Community
+18,lisakovsk,KZ,52.5369,62.4936,54,Gostinitsa Lisakovsk
+19,jalu,LY,29.0331,21.5482,26,صاحبة الفخامة
+20,sao felix do xingu,BR,-6.6447,-51.995,47,Rio Xingu Camping
+21,voh,NC,-20.9667,164.7,42,Le Vook
+22,talnakh,RU,69.4865,88.3972,43,Talnakh Hotel
+23,kozluk,TR,38.1938,41.4885,48,roni rezisdans kozluk apart otel
+24,blackwater,AU,-23.5833,148.8833,28,Blackwater Motor Inn
+25,ulaangom,MN,49.9811,92.0667,35,Achit Nuur Hotel & Restaurant
+26,sile,TR,41.1754,29.6133,43,Phellos Suites
+27,alofi,NU,-19.0595,-169.9187,26,Taloa Heights
+28,jinchang,CN,38.4953,102.1739,41,Mingshihui Jinchang International Hotel
+29,korla,CN,41.7597,86.1469,15,Gulisitan Hotel
+30,verkhoyansk,RU,67.5447,133.385,27,
+31,yerbogachen,RU,61.2767,108.0108,54,
+32,ayagoz,KZ,47.9714,80.4392,27,Gostinitsa Nur
+33,pafos,CY,34.7667,32.4167,26,Elysium Hotel
+34,klyuchi,RU,52.2667,79.1667,45,Vesolaya Mayovka
+35,awjilah,LY,29.1081,21.2869,25,
+36,batagay-alyta,RU,67.8006,130.4114,26,
+37,meadow lake,US,34.8014,-106.5436,45,JKL Inc. R.V Park and Storage
+38,lander,US,42.833,-108.7307,30,"Holiday Inn Express & Suites Lander, an IHG Hotel"
+39,konibodom,TJ,40.2843,70.4426,32,"Hotel ""Orom"""
+40,sao miguel do araguaia,BR,-13.275,-50.1628,34,Hotel Executivo Palace
+41,mizdah,LY,31.4451,12.9801,35,محمدالمبروك الاريقط
+42,avera,US,33.194,-82.5271,50,
+43,varzea grande,BR,-15.6467,-56.1325,41,Hotel Express
+44,abu samrah,SY,35.3029,37.1841,46,
+45,ust-kuyga,RU,70.0167,135.6,31,
+46,jacareacanga,BR,-6.2222,-57.7528,49,Casa do Ian😎
+47,biograd na moru,HR,43.9433,15.4519,51,Hotel Palma
+48,hazorasp,UZ,41.3194,61.0742,20,Kemping wifi hotel
