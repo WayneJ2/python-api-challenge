@@ -27,7 +27,9 @@ The **_[WeatherPyCode.ipynb](https://github.com/WayneJ2/python-api-challenge/blo
 
 ## Observable Trends From Data
 
-1.
+1. 75% of the cities in the data have an avg temperature below 80 deg, humidities less than 85% and 93% cloudiness.
+2. Temperatures follow expected pattern of being warmer the closer a city is to the equator.
+3. Cloudiness, Humidity, and Wind Speed had little to no correlation to a city's position on latitude.
 
 ## Part II- VacationPy
 
