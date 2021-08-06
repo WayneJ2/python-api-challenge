@@ -11,7 +11,7 @@ The **_[WeatherPyCode.ipynb](https://github.com/WayneJ2/python-api-challenge/blo
 ### Data Files 
 1. **_[City Weather Data CSV](https://github.com/WayneJ2/python-api-challenge/blob/main/WeatherPy/city_weather.csv)_**
 
-## List of Figures 
+### List of Figures 
 ###### _(labels for charts unable to be shown correctly in Github)_
 
 1. **[Northern Hemisphere - Temperature (F) vs. Latitude](https://github.com/WayneJ2/python-api-challenge/blob/main/WeatherPy/Images/NH_tempvslat.png)** _(Sample shown)_
@@ -25,11 +25,13 @@ The **_[WeatherPyCode.ipynb](https://github.com/WayneJ2/python-api-challenge/blo
 9. **[Southern Hemisphere - Wind Speed (mph) vs. Latitude](https://github.com/WayneJ2/python-api-challenge/blob/main/WeatherPy/Images/SH_windsvslat.png)**
 10. **[Snippet of API request log](https://github.com/WayneJ2/python-api-challenge/blob/main/WeatherPy/Images/City_printlog.PNG)**
 
-## Observable Trends From Data
+### Observable Trends From Data
 
 1. 75% of the cities in the data have an avg temperature below 80 deg, humidities less than 85% and 93% cloudiness.
 2. Temperatures follow expected pattern of being warmer the closer a city is to the equator.
 3. Cloudiness, Humidity, and Wind Speed had little to no correlation to a city's position on latitude.
+
+
 
 ## Part II- VacationPy
 
@@ -42,11 +44,11 @@ The **_[VacationPyCode.ipynb](https://github.com/WayneJ2/python-api-challenge/bl
 ### Data Files 
 1. **_[Hotel Data CSV](https://github.com/WayneJ2/python-api-challenge/blob/main/VacationPy/Ideal_cities_hotel_list.csv)_**
 
-## List of Figures
+### List of Figures
 
-### Humidity Heatmap of Ideal Weather locations
+#### Humidity Heatmap of Ideal Weather locations
 ![Heatmap1](/VacationPy/Images/Humidity_Heatmap.png)
 
-### Combo Heatmap of closest hotel in Ideal locations
+#### Combo Heatmap of closest hotel in Ideal locations
 ![Heatmap2](/VacationPy/Images/hotel_combo_map.PNG)
 
